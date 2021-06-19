@@ -1,0 +1,19 @@
+.outline {
+  outline: 1px solid black;
+}
+
+.margin-top {
+  margin-top: 10px
+}
+.text-hidden{
+width: 100px;
+overflow: hidden !important;
+text-overflow: ellipsis;}
+.no-wrap{
+  overflow: hidden;
+    list-style-position: inside;
+  white-space: nowrap;
+}
+.custom-css{
+  margin-right: 5px; margin-bottom:5px; cursor: pointer;
+}
